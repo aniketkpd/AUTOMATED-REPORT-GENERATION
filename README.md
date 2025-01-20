@@ -39,3 +39,5 @@ An explanation of the dataset's key variables.
 This project showcases how to analyze a dataset and generate an automated, well-formatted report using Python.
 
 # OUTPUT OF THE TASK
+
+![Image](https://github.com/user-attachments/assets/79a50c76-a404-4aa0-9ff9-34105164976c)
